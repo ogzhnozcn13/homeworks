@@ -1,0 +1,20 @@
+th {
+  padding: 7px 50px;
+}
+table {
+  text-align: center;
+}
+td {
+  padding: 7px 50px;
+}
+.tr1,
+.td1,
+.tr4,
+#saat {
+  background-color: rgba(188, 189, 203, 0.485);
+}
+#tr1,
+.tr2,
+.tr3 {
+  background-color: rgb(207, 217, 255);
+}
